@@ -48,8 +48,7 @@ contract ErrorHandling {
 
 ## Authors
 
-Maanya Manjunath 
-maanyamanjunath8@gmail.com
+Geetha Manjunath 
 
 ## License
 
